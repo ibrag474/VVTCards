@@ -28,4 +28,4 @@ See also the list of [contributors](https://github.com/ibrag474/VVTCards/contrib
 
 ## License
 
-This project is licensed under the GNU GPLv3 - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU GPLv3 - see the [LICENSE.md](https://github.com/ibrag474/VVTCards/blob/master/LICENSE) file for details
