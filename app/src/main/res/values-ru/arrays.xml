@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="checkTicketsAuto_list_preference_options">
+        <item>Остался 1 день</item>
+        <item>Остались 2 дня</item>
+        <item>Остались 3 дня</item>
+        <item>Остались 4 дня</item>
+        <item>Остались 5 дня</item>
+        <item>Остались 6 дня</item>
+        <item>Остались 7 дня</item>
+    </string-array>
+
+    <string-array name="checkTicketsAuto_list_preference_options_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+
+    <!-- For sync frequency -->
+    <string-array name="sync_frequency_preference_options">
+        <item>Проверять каждый час</item>
+        <item>Проверять каждых 2 часа</item>
+        <item>Проверять каждых 4 часа</item>
+        <item>Проверять каждых 6 часов</item>
+        <item>Проверять каждых 8 часов</item>
+        <item>Проверять каждых 10 часов</item>
+        <item>Проверять каждых 12 часов</item>
+        <item>Проверять каждых 14 часов</item>
+        <item>Проверять каждых 16 часов</item>
+        <item>Проверять каждых 18 часов</item>
+        <item>Проверять каждых 20 часов</item>
+        <item>Проверять каждые 22 часа</item>
+        <item>Проверять каждые 24 часа</item>
+    </string-array>
+
+    <string-array name="sync_frequency_preference_options_values">
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+        <item>6</item>
+        <item>8</item>
+        <item>10</item>
+        <item>12</item>
+        <item>14</item>
+        <item>16</item>
+        <item>18</item>
+        <item>20</item>
+        <item>22</item>
+        <item>24</item>
+    </string-array>
+</resources>

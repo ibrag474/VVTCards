@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">ViCards</string>
+    <string name="mainLabel">ViCards</string>
+    <string name="facebook_app_id">349381535516925</string>
+    <string name="settingsLabel">Nustatymai</string>
+    <string name="aboutLabel">Apie</string>
+    <string name="faqLabel">D.U.K</string>
+    <string name="action_settings">Nustatymai</string>
+    <string name="action_faq">D.U.K</string>
+    <string name="email">El. paštas</string>
+    <string name="password">Slaptažodis</string>
+    <string name="action_about">Apie</string>
+    <string name="add">Pridėti</string>
+    <string name="cancel">Atšaukti</string>
+    <string name="Yes">Taip</string>
+    <string name="No">Ne</string>
+    <string name="addCard">Pridėti kortelę</string>
+    <string name="rateApp">Įvertinkite mūsų programėlę</string>
+    <string name="pleaseRate">Jeigu Jums patinka mūsų atnaujinta programėlės versija, prašome įvertinti ją Google Play parduotuvėje. Ačiū!</string>
+    <string name="rate">Įvertinti</string>
+    <string name="later">Priminti vėliau</string>
+    <string name="rated">Dėkojame už jūsų įvertinimą!</string>
+    <string name="notRated">Mes Jums priminsime.</string>
+    <string name="cardNameField">Pavadinkite savo kortelę</string>
+    <string name="cardNumberField">Įveskite kortelės numerį</string>
+    <string name="recheckinternet">Patikrinti dar kartą</string>
+    <string name="noTickets">Galiojančių bilietų nėra</string>
+    <string name="showAllTickets">Visi bilietai</string>
+    <string name="cantCheckCard">Nepavyko patikrinti arba tokios kortelės nėra.</string>
+    <string name="nointernet">Nėra interneto ryšio</string>
+    <string name="cardadded">Kortelė pridėta</string>
+    <string name="emptyCardDataToast">Visi laukai turi būti užpildyti!</string>
+    <string name="deleteCardQuestion">Ar tikrai norite pašalinti kortelę?</string>
+    <string name="delCardTitle">Pašalinti kortelę</string>
+    <string name="likePage">Sekite mūsų Facebook puslapį</string>
+    <string name="like">Sekti</string>
+    <string name="pleaseLike">Ar Jūs norite sekti mūsų Facebook puslapį? Jeigu seksite, visada gausite naujausią informaciją apie mūsų programėlę ir galėsite pateikti savo pageidavimus!</string>
+    <string name="greetings">Ei, malonu Jus matyti!</string>
+    <string name="version">Versija:</string>
+    <string name="aboutThisAppTitle">Apie programėlę</string>
+    <string name="emptySQLInfo">Jūs dar nepridėję jokių kortelių.\nPaspauskite + , kad pridėtumėte</string>
+    <string name="inCard">Kortelėje</string>
+    <string name="newestData">Naujausi duomenis jau yra rodomi</string>
+    <string name="notifyExpiringTicket"> bilieto galiojimas greitai pasibaigs!</string>
+    <string name="notifyToActivate">Nepamirškite aktyvuoti naujo bilieto. Liko tik</string>
+    <string name="dayLeft">diena!</string>
+    <string name="daysLeft">dienos!</string>
+    <string name="aboutThisApp">Ši programėlė naudoja duomenis, gautus iš svetainės https://mano.vilniustransport.lt, kurie atsinaujina tik kas 24 valandas, todėl kartais informacija pateikiama šioje programėlėje gali būti pasenusi.
+Ši programėlė nėra oficialus SĮ „Susisiekimo paslaugos“ produktas ir nėra niekuo susijęs su šia įstaiga.
+Programėlės autoriai neneša atsakomybės už duomenis, gautus iš https://mano.vilniustransport.lt svetainės.
+    ViCards yra atvirojo kodo programa. Prisidėti prie jos vystymo galite per Github.com, ieškokite VVTCards.</string>
+    <string name="iconsInfo">Piktogramos gautos iš https://icons8.com.</string>
+    <string name="teisės">©ViCards 2017-2019 Visos teisės saugomos.</string>
+
+    <!-- Notification -->
+    <string name="muteBtn">Nutildyti</string>
+
+    <!-- Strings related to Settings -->
+    <string name="sync_frequency">Sinchronizavimo dažnis</string>
+    <string name="pref_sync_settings_title">Įspėjimai</string>
+    <string name="data_type_setting_title">Sinchronizuoti tik per Wi-Fi</string>
+    <string name="data_type_setting_summary">Tai neleis programėlei naudoti mobiliojo interneto</string>
+    <string name="checkTicketsAuto">Tikrinti bilietų galiojimo datą</string>
+    <string name="checkTicketsAutoDescr">Įspėja apie bilieto galiojimo laiko pabaigą</string>
+    <string name="checkMoneyAuto">Tikrinti pinigų kiekį</string>
+    <string name="checkMoneyAutoDescr">Įspėja, kai kortelėje lieka mažai pinigų</string>
+    <string name="checkTicketsAuto_list_preference_title">Įspėti, kai...</string>
+    <string name="checkTicketsAuto_edit_preference_title">Minimalus pinigų kiekis</string>
+    <string name="checkTicketsAuto_list_preference_summary">Paspauskite, kad nustatyti</string>
+    <string name="cshwrdt">Ar ši programa gali rodyti pasenusius duomenis?</string>
+    <string name="cshwrdtText">NE, ši programa atsisiunčia duomenis iš serverio kiekvieną kartą, kai ją atidarote. Jeigu aktyvavote naują terminuotą bilietą, jis bus parodytas tik po 24 valandų. Skaitykite apie tai daugiau programos \'Apie\' skiltyje.</string>
+    <string name="eurosleft1">Čia liko tik</string>
+    <string name="eurosleft2">"€ "</string>
+    <string name="hDelCard">Kaip ištrinti kortelę?</string>
+    <string name="hDelCardText">Tai labai paprasta. Tiesiog įvykdykite ilgą paspaudimą and kortelės, kurią norite ištrinti.</string>
+    <string name="hStart">Kaip pradėti naudotis?</string>
+    <string name="hStartText">Pridėkite Vilniečio kortelę. (Paspauskite + mygtuką viršutinėje programos juostoje, užpildikyte formą ir paspauskite \'Pridėti\') Ir viskas!</string>
+    <string name="running_out_of_money">baigiasi pinigai!</string>
+    <string name="card">Kortelėje</string>
+    <string name="whBtninacbardoes">Ką mygtukas \'Nutildyti\' esantis po programos siunčiamais įspėjimais daro?</string>
+    <string name="whBtninacbardoesText">Jis išjungia ispėjimų garsus ir lemputę ribotam laiko periodui. Laiko periodas priklauso nuo nustatyto sinchronizavimo dažnio.</string>
+    <string name="whynonfc">Kodėl ši programa nepalaiko NFC?</string>
+    <string name="whynonfcText">Šiuo metu mes dirbame šia kryptimi. Stebėkite atnaujinimus ir nerašykite blogų atsiliepimų šia tema Google Play parduotuvėje.</string>
+    <string name="willsenotifs">Ar ši programa gali siųsti įspėjimus?</string>
+    <string name="willsenotifsText">Taip, ši programa siųs įspėjimus apie bilietus ir pinigus jūsų kortelėse. Jus galite nustatyti tai programos nustatymose.</string>
+</resources>

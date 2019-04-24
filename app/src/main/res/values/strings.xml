@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">ViCards</string>
+    <string name="mainLabel">ViCards</string>
+    <string name="facebook_app_id">349381535516925</string>
+    <string name="settingsLabel">Settings</string>
+    <string name="aboutLabel">About us</string>
+    <string name="faqLabel">F.A.Q</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_faq">F.A.Q</string>
+    <string name="action_about">About us</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
+    <string name="addCard">Add a new card</string>
+    <string name="rateApp">Rate our App</string>
+    <string name="pleaseRate">If you like our updated app, please take a moment to rate it in Play Store. Thank You!</string>
+    <string name="rate">Rate</string>
+    <string name="later">Remind Me Later</string>
+    <string name="rated">Thank you for your rating!</string>
+    <string name="notRated">We will remind you.</string>
+    <string name="cardNameField">Name your card</string>
+    <string name="cardNumberField">Your card number</string>
+    <string name="recheckinternet">Retry</string>
+    <string name="noTickets">You haven"'"t any active tickets</string>
+    <string name="showAllTickets">Show all tickets</string>
+    <string name="cantCheckCard">Failed to check or card number is incorrect.</string>
+    <string name="nointernet">No internet connection</string>
+    <string name="cardadded">Card added</string>
+    <string name="emptyCardDataToast">All text fields must be filled!</string>
+    <string name="deleteCardQuestion">Are you sure you want to delete the card?</string>
+    <string name="delCardTitle">Delete a card</string>
+    <string name="likePage">Like our Facebook page</string>
+    <string name="like">Like</string>
+    <string name="pleaseLike">Do you want to like our Facebook page? If you like it you will get the newest information about this app!</string>
+    <string name="greetings">Hey, glad to see you!</string>
+    <string name="version">Version:</string>
+    <string name="aboutThisAppTitle">About this app</string>
+    <string name="emptySQLInfo">You haven"'"t added any cards.\nPlease click + button to add one</string>
+    <string name="inCard">In the card</string>
+    <string name="notifyExpiringTicket">ticket will expire soon!</string>
+    <string name="notifyToActivate">Don"'"t forget to activate new ticket. Only</string>
+    <string name="newestData">The latest data is already displayed</string>
+    <!-- Money notification -->
+    <string name="card">Card</string>
+    <string name="running_out_of_money">is running out of money!</string>
+    <string name="eurosleft1">There are only</string>
+    <string name="eurosleft2">€ left!</string>
+
+
+    <string name="dayLeft">day left.</string>
+    <string name="daysLeft">days left.</string>
+
+    <string name="aboutThisApp">This program uses data from the \nhttps://mano.vilniustransport.lt website, which is updated every 24 hours, so sometimes information provided in this program may be a little bit outdated.
+This application is not an official product of the SĮ "Susisiekimo paslaugos" company and the authors of application are not responsible for data received from the https://mano.vilniustransport.lt website.
+    ViCards is an open source application. You can contribute through Github.com, search for VVTCards.</string>
+    <string name="iconsInfo">Icons taken from https://icons8.com.</string>
+    <string name="teisės">©ViCards 2017 All rights reserved.</string>
+
+    <!-- Strings related to Settings -->
+    <string name="sync_frequency">Sync frequency</string>
+    <string name="pref_sync_settings_title">Notifications</string>
+    <string name="data_type_setting_title">Sync only over Wi-Fi</string>
+    <string name="data_type_setting_summary">This will prevent app from mobile data usage</string>
+    <string name="checkTicketsAuto">Check ticket validity date</string>
+    <string name="checkTicketsAutoDescr">Notify me about tickets, which will expire soon</string>
+    <string name="checkMoneyAuto">Check amount of money</string>
+    <string name="checkMoneyAutoDescr">Notify me when I am running out of money</string>
+    <string name="checkTicketsAuto_list_preference_title">Notify me, when...</string>
+    <string name="checkTicketsAuto_edit_preference_title">Min Eur amount to notify</string>
+    <string name="checkTicketsAuto_list_preference_summary">Tap to set</string>
+
+    <!-- Notification -->
+    <string name="muteBtn">Mute</string>
+
+    <!-- F.A.Q Text -->
+    <string name="hStart">How to start?</string>
+    <string name="hStartText">Add your Vilnius card.\n(Tap + on action bar in main app"'"s section,
+        fill form and press add button) Thats all!</string>
+    <string name="cshwrdt">Can this app show outdated data?</string>
+    <string name="cshwrdtText">NO, this app downloads data from server every time you open it.
+    \nIf you have activated new ticket it will be showed only after 24 hours.\nRead more about this in app"'"s "'"About"'" section.</string>
+    <string name="hDelCard">How to delete cards?</string>
+    <string name="hDelCardText">That"'"s really simple, just do a long press on card you want to delete.</string>
+    <string name="whBtninacbardoes">What "'"Mute"'" button in notifications does?</string>
+    <string name="whBtninacbardoesText">It turns off notification sounds and notification light for limited time, it depends
+    on sync frequency that you have set in settings of this app.</string>
+    <string name="whynonfc">Why this app doesn"'"t support NFC?</string>
+    <string name="whynonfcText">We are working on this. Stay up to date and don"'"t write bad reviews about this in Google Play.</string>
+    <string name="willsenotifs">Will this app send any notifications?</string>
+    <string name="willsenotifsText">Yes, this app will send notifications about your tickets and money.
+    You can customize it in app"'"s settings.</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    >
+
+    <EditText
+        android:id="@+id/cardName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:backgroundTint="#5efc82"
+        android:ems="10"
+        android:maxLines="1"
+        android:hint="@string/cardNameField" />
+
+    <EditText
+        android:id="@+id/cardNumberId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#5efc82"
+        android:ems="10"
+        android:maxLines="1"
+        android:hint="@string/cardNumberField"
+        android:inputType="numberSigned" />
+</LinearLayout>
