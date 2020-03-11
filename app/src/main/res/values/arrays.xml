@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="checkTicketsAuto_list_preference_options">
+        <item>1 day left</item>
+        <item>2 days left</item>
+        <item>3 days left</item>
+        <item>4 days left</item>
+        <item>5 days left</item>
+        <item>6 days left</item>
+        <item>7 days left</item>
+    </string-array>
+
+    <string-array name="checkTicketsAuto_list_preference_options_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+
+    <!-- For sync frequency -->
+    <string-array name="sync_frequency_preference_options">
+        <item>Check every hour</item>
+        <item>Check every 2 hours</item>
+        <item>Check every 4 hours</item>
+        <item>Check every 6 hours</item>
+        <item>Check every 8 hours</item>
+        <item>Check every 10 hours</item>
+        <item>Check every 12 hours</item>
+        <item>Check every 14 hours</item>
+        <item>Check every 16 hours</item>
+        <item>Check every 18 hours</item>
+        <item>Check every 20 hours</item>
+        <item>Check every 22 hours</item>
+        <item>Check every 24 hours</item>
+    </string-array>
+
+    <string-array name="sync_frequency_preference_options_values">
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+        <item>6</item>
+        <item>8</item>
+        <item>10</item>
+        <item>12</item>
+        <item>14</item>
+        <item>16</item>
+        <item>18</item>
+        <item>20</item>
+        <item>22</item>
+        <item>24</item>
+    </string-array>
+</resources>

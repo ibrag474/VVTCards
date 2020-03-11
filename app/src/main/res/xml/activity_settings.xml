@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <SwitchPreference
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:key="data_type"
+        android:title="@string/data_type_setting_title"
+        android:summary="@string/data_type_setting_summary"
+        android:defaultValue="true" />
+    <ListPreference
+        android:defaultValue="12"
+        android:summary="%s"
+        android:dialogTitle="@string/sync_frequency"
+        android:entries="@array/sync_frequency_preference_options"
+        android:entryValues="@array/sync_frequency_preference_options_values"
+        android:key="sync_frequency"
+        android:negativeButtonText="@null"
+        android:positiveButtonText="@null"
+        android:title="@string/sync_frequency" />
+
+    <PreferenceCategory
+        android:title="@string/pref_sync_settings_title"
+        android:key="pref_sync_settings">
+
+        <SwitchPreference
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:key="ticket_sync"
+            android:title="@string/checkTicketsAuto"
+            android:summary="@string/checkTicketsAutoDescr"
+            android:defaultValue="true" />
+
+        <ListPreference
+            android:defaultValue="3"
+            android:summary="%s"
+            android:dialogTitle="@string/checkTicketsAuto_list_preference_title"
+            android:entries="@array/checkTicketsAuto_list_preference_options"
+            android:entryValues="@array/checkTicketsAuto_list_preference_options_values"
+            android:key="ticket_notifier_range"
+            android:negativeButtonText="@null"
+            android:positiveButtonText="@null"
+            android:title="@string/checkTicketsAuto_list_preference_title" />
+
+        <SwitchPreference
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:key="money_sync"
+            android:title="@string/checkMoneyAuto"
+            android:summary="@string/checkMoneyAutoDescr"
+            android:defaultValue="true" />
+
+        <EditTextPreference
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:summary="@string/checkTicketsAuto_list_preference_summary"
+            android:key="money_notifier_range"
+            android:maxLines="1"
+            android:inputType="numberDecimal"
+            android:title="@string/checkTicketsAuto_edit_preference_title"
+            android:defaultValue="1"/>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

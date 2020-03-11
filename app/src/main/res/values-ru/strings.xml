@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">ViCards</string>
+    <string name="mainLabel">ViCards</string>
+    <string name="facebook_app_id">349381535516925</string>
+    <string name="settingsLabel">Настройки</string>
+    <string name="aboutLabel">О нас</string>
+    <string name="email">Е-майл</string>
+    <string name="password">Пароль</string>
+    <string name="action_settings">Настройки</string>
+    <string name="action_about">О нас</string>
+    <string name="add">Добавить</string>
+    <string name="cancel">Отменить</string>
+    <string name="Yes">Да</string>
+    <string name="No">Нет</string>
+    <string name="addCard">Добавить карточку</string>
+    <string name="rateApp">Оцените наше приложение</string>
+    <string name="pleaseRate">Если вам нравится наше обновлённое приложение, пожалуйста, найдите время, чтобы оценить его в Play Маркете. Спасибо!</string>
+    <string name="rate">Оценить</string>
+    <string name="later">Напомните мне позже</string>
+    <string name="rated">Спасибо за вашу оценку!</string>
+    <string name="notRated">Мы вам напомним.</string>
+    <string name="cardNameField">Назовите свою карточку</string>
+    <string name="cardNumberField">Введите номер карточки</string>
+    <string name="recheckinternet">Проверить ещё раз</string>
+    <string name="noTickets">Вы не имеете никаких активных билетов</string>
+    <string name="showAllTickets">Все билеты</string>
+    <string name="cantCheckCard">Не удалось проверить или нет такой карточки.</string>
+    <string name="nointernet">Hет подключения к Интернету</string>
+    <string name="cardadded">Карточка добавлена</string>
+    <string name="emptyCardDataToast">Все текстовые поля должны быть заполнены!</string>
+    <string name="deleteCardQuestion">Вы уверены, что хотите удалить карточку?</string>
+    <string name="delCardTitle">Удалить карточку</string>
+    <string name="likePage">Присоединитесь к нам в Facebook"'"е</string>
+    <string name="like">Присоединиться</string>
+    <string name="pleaseLike">Вы хотите присоединиться к нашей странице в Facebook"'"е? Если присоединитесь будите получать самую новую информацию о нашем приложений!</string>
+    <string name="greetings">Эй, приятно вас видеть!</string>
+    <string name="version">Версия:</string>
+    <string name="aboutThisAppTitle">Об этом приложении</string>
+    <string name="emptySQLInfo">Вы не добавили никаких карточек.\nНажмите кнопку +, чтобы добавить</string>
+    <string name="inCard">На карточке</string>
+    <string name="newestData">Последние данные уже отображаются</string>
+    <string name="card">На карточке</string>
+    <string name="notifyExpiringTicket">скоро истечет билет!</string>
+    <string name="notifyToActivate">Не забудьте активировать новый билет. Осталось только</string>
+    <string name="dayLeft">день!</string>
+    <string name="daysLeft">дня!</string>
+    <string name="buyTicketsButton">Купить билетов</string>
+    <string name="addMoneyButton">Пополнить счёт</string>
+    <string name="aboutThisApp">Это приложение использует данные, полученные с веб-сайта https://mano.vilniustransport.lt, которые обновляются каждые 24 часа, поэтому иногда информация предоставляемая в приложений может быть не много устаревшей.
+Это приложение не является официальным продуктом SĮ «Susisiekimo paslaugos» и оно не как не связано с этим учреждением. Авторы данного приложения не несут ответственности за данные, полученные из https://mano.vilniustransport.lt веб-сайта.</string>
+    <string name="iconsInfo">Все иконки взяты из https://icons8.com.</string>
+    <string name="teisės">©ViCards 2017-2020 Все права защищены.</string>
+
+    <!-- Notification -->
+    <string name="muteBtn">Погосить</string>
+
+    <!-- Strings related to Settings -->
+    <string name="sync_frequency">Частота синхронизации</string>
+    <string name="pref_sync_settings_title">Уведомления и оповещения</string>
+    <string name="data_type_setting_title">Синхронизация только по Wi-Fi</string>
+    <string name="data_type_setting_summary">Это предотвратит использование мобильного интернета</string>
+    <string name="checkTicketsAuto">Авто проверка билетов</string>
+    <string name="checkTicketsAutoDescr">Сообщите мне о билетах, которых срок действия скоро истечет</string>
+    <string name="checkMoneyAuto">Авто проверка денежнай суммы</string>
+    <string name="checkMoneyAutoDescr">Уведомить меня, когда у меня на карте заканчиваются деньги</string>
+    <string name="checkTicketsAuto_list_preference_title">Уведомить меня, когда...</string>
+    <string name="checkTicketsAuto_edit_preference_title">Минимальная сумма Eur для уведомления</string>
+    <string name="checkTicketsAuto_list_preference_summary">Нажмите, чтобы установить</string>
+    <string name="whBtninacbardoes">Что делает кнопка \'Погасить\' в уведомлениях?</string>
+    <string name="whBtninacbardoesText">Оно отключает звуки уведомлений и подсветку уведомлений на ограниченный отрывок времени, это зависит от частоты синхронизации, которую вы установили в настройках этого приложения.</string>
+    <string name="whynonfc">Почему это приложение не поддерживает NFC?</string>
+    <string name="whynonfcText">Мы работаем над этим. Будьте в курсе последних обновлений и не пишите об этом в Google Play Маркете.</string>
+    <string name="willsenotifs">Будет ли это приложение показывать какие-либо уведомления?</string>
+    <string name="willsenotifsText">Да, это приложение будет отправлять уведомления о ваших билетах и деньгах. Вы можете настроить это в настройках приложения.</string>
+    <string name="hDelCard">Как удалять карты?</string>
+    <string name="hDelCardText">Это очень просто, это делается долгим нажатием на карту, которую вы хотите удалить.</string>
+    <string name="hStart">Как начать?</string>
+    <string name="hStartText">Добавьте свою карту Вильнюсца. (Нажмите «+» на панели действий, заполните форму и нажмите на кнопку Добавить) Вот и все!</string>
+    <string name="eurosleft1">Тут осталось только</string>
+    <string name="eurosleft2">€</string>
+    <string name="faqLabel">Ч.З.В</string>
+    <string name="running_out_of_money">кончяются деньги!</string>
+    <string name="action_faq">Ч.З.В</string>
+    <string name="cshwrdt">Может ли это приложение отображать устаревшие данные?</string>
+    <string name="cshwrdtText">НЕТ, это приложение загружает данные с сервера каждый раз, когда вы его открываете. Если вы активировали новый билет, он будет показан только через 24 часа. Подробнее об этом читайте в разделе «О нас».</string>
+</resources>
